@@ -2,3 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 theme = "cleanwhite"
 title = "Shan van Rensburg"
+
+[params]
+    title_short = "SVR"
+    slogan = "Web Developer | Lifelong Learner"
