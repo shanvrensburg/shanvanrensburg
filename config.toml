@@ -7,4 +7,23 @@ title = "Shan van Rensburg"
     title_short = "SVR"
     slogan = "Web Developer | Lifelong Learner"
     header_image = "hero_svr.jpg"
+    SEOTitle = "Shan van Rensburg | Blog"
+    description = ""
+    keyword = ""
+
+    # sidebar settings
     sidebar_avatar = "shan.png"
+    sidebar_about_description = "Web Developer and Lifelong Learner"
+
+[params.social]
+    email = "example@gmail.com"
+    facebook = "asdfaf"
+    linkedin = "https://www.linkedin.com/in/yourlinkedinid"
+    github   = "https://github.com/shanvrensburg"
+
+[[params.addtional_menus]]
+    title =  "BOOKS"
+    href =  "/books/"
+[[params.addtional_menus]]
+    title =  "ABOUT"
+    href =  "/about/"
